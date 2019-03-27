@@ -1,1 +1,1 @@
-# MNIST_Assginment-
+# Deep Learning Assignment ( CS985 - Report )
