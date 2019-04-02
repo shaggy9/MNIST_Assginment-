@@ -83,7 +83,7 @@ score = model.evaluate(x_test, y_test, verbose=0)
 print("Accuracy: ", score[1])
 
 
-# In[ ]:
+
 
 
 
